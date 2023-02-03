@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1576475/public_html/
-    #- /bin/composer install
+    - cp .env.example .env
     - mkdir /home/u1576475/desa-johunut/
     - cp -r * /home/u1576475/desa-johunut/
     - cp -r ./public/* $DEPLOYPATH
