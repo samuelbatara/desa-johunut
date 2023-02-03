@@ -2,7 +2,3 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1576475/public_html/
-    - /bin/cp .env.example .env
-    - /bin/cp /public/* $DEPLOYPATH
-    - /bin/mkdir $DEPLOYPATH/desa-johunut
-    - /bin/cp * $DEPLOYPATH/desa-johunut
