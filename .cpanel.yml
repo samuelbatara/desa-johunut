@@ -1,0 +1,9 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1576475/public_html/
+    - /bin/composer install
+    - /bin/cp .env.example .env
+    - /bin/cp /public/* $DEPLOYMENT
+    - /bin/mkdir $DEPLOYMENT/desa-johunut
+    - /bin/cp * $DEPLOYMENT/desa-johunut
