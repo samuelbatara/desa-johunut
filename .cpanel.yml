@@ -3,6 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u1576475/public_html/
     #- /bin/composer install
-    - mkdir /home/u1576475/desa-johunut/
+    - mkdir -p /home/u1576475/desa-johunut/
     - cp -r * /home/u1576475/desa-johunut/
     - cp -r ./public/* $DEPLOYPATH
