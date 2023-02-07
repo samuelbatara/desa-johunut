@@ -57,7 +57,7 @@ class ContentController extends Controller
   public function getProfileDusunContent() {
     $card_title = "Profile Dusun";
     $dusuns = $this->jsonController->getContent(
-      resource_path('data\\profile_dusun.json'));
+      resource_path('data/profile_dusun.json'));
 
     return view('profile_desa/profile_dusun', [
       'page_title' => 'Profile Dusun - ' . $this->default_page_title,
