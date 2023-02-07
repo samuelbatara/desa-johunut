@@ -2,66 +2,516 @@
   {
     "code": 0,
     "nama": "SALAM",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/salam/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/7.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/8.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/salam/9.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/salam/10.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 1,
     "nama": "PAKEL",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/pakel/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/7.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/8.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/9.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/10.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/11.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/12.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/13.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/pakel/14.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/15.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/16.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/17.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/18.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/19.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/20.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pakel/21.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 2,
     "nama": "PRENGGUK",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/prengguk/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/prengguk/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/prengguk/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/prengguk/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/prengguk/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/prengguk/6.jpg",
+        "main": true
+      }
+    ]
   },
   {
     "code": 3,
     "nama": "SAMBI",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/sambi/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/sambi/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/sambi/3.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/sambi/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/sambi/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/sambi/6.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 4,
     "nama": "MLOKO",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/mloko/1.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/mloko/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/mloko/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/mloko/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/mloko/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/mloko/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/mloko/7.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 5,
     "nama": "GEMULUNG",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/gemulung/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gemulung/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gemulung/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gemulung/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gemulung/5.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/gemulung/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gemulung/7.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gemulung/8.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 6,
     "nama": "KENTENG",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/kenteng/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/kenteng/2.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/kenteng/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/kenteng/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/kenteng/5.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 7,
     "nama": "KLAMPOK",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/klampok/1.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/klampok/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/klampok/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/klampok/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/klampok/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/klampok/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/klampok/7.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 8,
     "nama": "NAGAN",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/nagan/1.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/nagan/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/nagan/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/nagan/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/nagan/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/nagan/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/nagan/7.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 9,
     "nama": "WARUHARJO",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/waruharjo/1.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/waruharjo/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/waruharjo/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/waruharjo/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/waruharjo/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/waruharjo/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/waruharjo/7.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 10,
     "nama": "JOHUNUT",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/johunut/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/johunut/2.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/johunut/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/johunut/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/johunut/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/johunut/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/johunut/7.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/johunut/8.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 11,
     "nama": "PULE",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/pule/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pule/2.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/pule/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pule/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pule/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pule/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/pule/7.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 12,
     "nama": "GEBANG",
-    "summary": ""
+    "summary": "",
+    "images": [
+      {
+        "path": "/assets/dusun/gebang/1.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/dusun/gebang/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gebang/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gebang/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gebang/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gebang/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/dusun/gebang/7.jpg",
+        "main": false
+      }
+    ]
   }
 ]

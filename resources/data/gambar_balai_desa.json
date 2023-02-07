@@ -1,0 +1,30 @@
+[
+  {
+    "path": "assets/balai-desa/1.jpg",
+    "main": true
+  },
+  {
+    "path": "assets/balai-desa/2.jpg",
+    "main": false
+  },
+  {
+    "path": "assets/balai-desa/3.jpg",
+    "main": false
+  },
+  {
+    "path": "assets/balai-desa/4.jpg",
+    "main": false
+  },
+  {
+    "path": "assets/balai-desa/5.jpg",
+    "main": false
+  },
+  {
+    "path": "assets/balai-desa/6.jpg",
+    "main": false
+  },
+  {
+    "path": "assets/balai-desa/7.jpg",
+    "main": false
+  }
+]

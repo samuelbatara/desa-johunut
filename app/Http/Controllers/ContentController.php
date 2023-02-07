@@ -13,24 +13,32 @@ class ContentController extends Controller
   private JsonController $jsonController;
   private DusunController $dusunController;
   private PotensiDesaController $potensiDesaController;
+  private ImageController $imageController;
 
   private $default_page_title = "Desa Johunut";
+  private $asset_balai_desa = "data/gambar_balai_desa.json";
 
   public function __construct(JsonController $jsonController,
                               DusunController $dusunController,
-                              PotensiDesaController $potensiDesaController) {
+                              PotensiDesaController $potensiDesaController,
+                              ImageController $imageController) {
     $this->jsonController = $jsonController;
     $this->dusunController = $dusunController;
     $this->potensiDesaController = $potensiDesaController;
+    $this->imageController = $imageController;
   }
 
   public function index() {
     $card_title = "Selamat Datang";
+    $images = $this->imageController->getAssets(
+      resource_path($this->asset_balai_desa)
+    );
 
     return view('index', [
       'page_title' => $this->default_page_title,
       'card_title' => $card_title,
       'image_src' => asset('assets/loading.png'),
+      'images' => $images,
     ]);
   }
 
