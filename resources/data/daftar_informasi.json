@@ -1,0 +1,24 @@
+[
+  {
+    "code": 0,
+    "nama": "Program Kerja 1",
+    "images": [
+      {
+        "url": "",
+        "isMain": false
+      }
+    ],
+    "ringkasan": ""
+  },
+  {
+    "code": 1,
+    "nama": "Program Kerja 2",
+    "images": [
+      {
+        "url": "",
+        "isMain": false
+      }
+    ],
+    "ringkasan": ""
+  }
+]
