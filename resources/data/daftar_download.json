@@ -1,9 +1,9 @@
 [
   {
-    "code": 0,
-    "nama": "Download 1",
-    "ringkasan": "",
-    "path": ""
+    "code": "format-pph-umkm",
+    "nama": "Format Perhitungan Pajak UMKM Sesuai Aturan Terbaru",
+    "ringkasan": "UU HPP menetapkan pembebasan PPh untuk omset hingga Rp500 juta per tahun. Artinya, pelaku usaha, khususnya UMKM hanya akan dikenakan pajak apabila omsetnya dalam satu tahun melebihi Rp500 juta. Begini simulasi perhitugannya.",
+    "path": "excel/format-pph-umkm.xlsx"
   },
   {
     "code": 1,

@@ -5,8 +5,8 @@
 
   <div class="row">
     @foreach($daftar_informasi as $informasi)
-    <div class="col-6">
-      <div class="card mb-3" style="max-width: 540px;">
+    <div class="col-8">
+      <div class="card mb-3">
         <div class="row g-0">
           <div class="col-md-4">
             <img src="{{ $image_src }}" class="img-fluid rounded-start" alt="...">

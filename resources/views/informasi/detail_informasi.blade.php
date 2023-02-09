@@ -22,4 +22,20 @@
     </button>
   </div>
 </div>
+
+<div class="row mt-3">
+  <div class="card">
+    <div class="card-body">
+      @foreach ($informasi->contents as $content)
+      @if ($content->tipe == "text")
+      <p class="card-text">{{ $content->value }}</p>
+      @else 
+      <div class="row">
+        <iframe src="https://www.youtube.com/embed/-CAZQ4_5E94" frameborder="0" height="500"></iframe>
+      </div>
+      @endif
+      @endforeach
+    </div>
+  </div>
+</div>
 @endsection

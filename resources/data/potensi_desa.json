@@ -1,9 +1,19 @@
 [
   {
-    "code": 0,
+    "code": "batu-kapur",
     "nama": "Batu Kapur",
-    "ringkasan": "",
-    "detail": "",
+    "ringkasan": "Batu kapur atau Gamping adalah batuan sedimen yang tersusun dari mineral kalsit dan aragonit, yang merupakan dua varian yang berbeda dari kalsium karbonat.",
+    "detail": [
+      {
+        "value": "Batu kapur atau Gamping adalah batuan sedimen yang tersusun dari mineral kalsit dan aragonit, yang merupakan dua varian yang berbeda dari kalsium karbonat. Sumber utama dari kalsit adalah organisme laut. Organisme ini membentuk cangkang yang kaya akan kapur, yang kemudian tertumpuk di dasar laut dan terdeposit di lantai samudra sebagai ooze pelagik. Berdasarkan fakta tersebut dapat disimpulkan Desa Johunut merupakan dasar sebuah laut pada masa lalu. Hal ini masuk akal karena Desa Johunut terletak di bagian paling selatan dari pulau Jawa."        
+      },
+      {
+        "value": "Selain fakta di atas batu kapur juga memiliki banyak manfaat. Pemanfaatan batu kapur yang paling banyak dan sering digunakan adalah sebagai bahan bangunan dan pengeras jalan. Pada industri yang lebih tinggi lagi digunakan pada industri semen, keramik, bahan manakan, serta industri logam."
+      },
+      {
+        "value": "Batu kapur yang terdapat di Desa Johunut pada umumnya hanya digunakan untuk kebutuhan pembangunan, seperti pembangunan jalan dan lahan ladang. Uniknya batu kapur juga digunakan sebagai pondasi ladang yang cukup unik, yaitu berbentuk punden berundak."
+      }
+    ],
     "images": [
       {
         "path": "/assets/potensi-desa/batu-kapur/1.jpg",
@@ -36,10 +46,17 @@
     ]
   },
   {
-    "code": 1,
+    "code": "luweng",
     "nama": "Luweng",
-    "ringkasan": "",
-    "detail": "",
+    "ringkasan": "Luweng merupakan sumur yang sangat dalam yang terdapat di dalam gua (di pengunungan).",
+    "detail": [
+      {
+        "value": "Luweng merupakan sumur yang sangat dalam yang terdapat di dalam gua (di pengunungan). Secara luas, luweng merupakan lubang mirip gua vertikal yang berfungsi sebagai saluran air alami di wilayah karst. Luweng biasanya hilang karena tertutup sedimentasi atau tersumbat dedaunan atau tanaman. Ketika luweng tertutup sedimen atau tersumbat, maka di wilayah itu air tidak bisa mengalir ked alam tanah."
+      },
+      {
+        "value": "Terdapat banyak luweng di Desa Johunut, bukan hal yang sulit untuk menemukannya di desa ini. Luweng dapat membawa dampak positif dan negatif bagi masyarakat desa. Ketika hujan, luweng dapat bermanfaat sebagai bak untuk menampung air hujan sehingga tidak terjadi banjir. Di lain sisi, kemunculan luwen di tanah yang datar atau lahan ladang warga akan berdampak negatif, karena mengurangi lahan warga untuk bercocok tanam."
+      }
+    ],
     "images": [
       {
         "path": "/assets/potensi-desa/luweng/1.jpg",
@@ -52,10 +69,23 @@
     ]
   },
   {
-    "code": 2,
+    "code": "umkm-keripik-tempe",
     "nama": "UMKM Keripik Tempe",
-    "ringkasan": "",
-    "detail": "",
+    "ringkasan": "Setiap daerah memiliki keunikannya masing-masing, begitu juga dengan keripik tempe yang terdapat di Dusun Gebang, Desa Johunut.",
+    "detail": [
+      {
+        "value": "Keripik tempe merupakan olahan tempe yang paling umum dijumpai di setiap daerah di Indonesia. Keripik tempe merupakan olahan dari tempe. Setiap daerah memiliki keunikannya masing-masing, begitu juga dengan keripik tempe yang terdapat di Dusun Gebang, Desa Johunut."
+      },
+      {
+        "value": "Bu Kasmi merupakan pemilik dari UMKM Keripik Tempe yang terdapat di Dusun Gebang. Beliau telah memulai usaha keripik tempe sejak 2010. Keripik tempe yang dibuat unik, berdasarkan bahan-bahan yang digunakan."
+      },
+      {
+        "value": "Setiap bahan yang digunakan untuk membuat keripik tempe dibuat sendiri oleh Bu Kasmi. Beliau bertujuan untuk menjaga rasa dan keaslian dari masakannya. Bahan-bahannya terdiri dari tempe, ragi, dan tepung yang terbuat dari singkong."
+      },
+      {
+        "value": "Bu Kasmi menjual masakannya ke Pasar Giribelah dan Pasar Paranggupito. Keripik tempe cukup dikemas dengan plastik yang dijual dengan harga Rp2.000 per bungkus."
+      }
+    ],
     "images": [
       {
         "path": "/assets/potensi-desa/umkm/1.jpg",

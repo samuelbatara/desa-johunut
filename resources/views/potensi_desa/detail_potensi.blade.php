@@ -22,4 +22,14 @@
     </button>
   </div>
 </div>
+
+<div class="row mt-3">
+  <div class="card">
+    <div class="card-body">
+      @foreach ($potensi_desa->detail as $text) 
+      <p class="card-text">{{ $text->value }}</p>
+      @endforeach
+    </div>
+  </div>
+</div>
 @endsection

@@ -23,7 +23,7 @@ class DownloadController extends Controller
 
     foreach ($daftar_download as $download) {
       if ($download->code == $code) {
-        return response()->download($download->path);
+        return response()->download(resource_path($download->path));
       }
     }
 

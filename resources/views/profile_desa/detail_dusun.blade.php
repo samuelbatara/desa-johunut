@@ -35,7 +35,7 @@
       <?php $berdasarkan_jenis_kelamin = $data_penduduk->data->jenis_kelamin; ?>
       <div class="row mt-4">
         <h5 class="card-title" style="font-weight: bold; font-size: medium;">{{ $berdasarkan_jenis_kelamin->desc }}</h5>
-        <table style="border: 1px solid black; width: 70%;">
+        <table style="border: 1px solid black; width: 50%;">
           <tr>
             <th>Nama</th>
             @foreach ($berdasarkan_jenis_kelamin->data as $data)
@@ -54,7 +54,7 @@
       <?php $berdasarkan_pendidikan = $data_penduduk->data->pendidikan; ?>
       <div class="row mt-4">
         <h5 class="card-title" style="font-weight: bold; font-size: medium;">{{ $berdasarkan_pendidikan->desc }}</h5>
-        <table style="border: 1px solid black; width: 70%;">
+        <table style="border: 1px solid black; width: 90%;">
           <tr>
             <th>Nama</th>
             @foreach ($berdasarkan_pendidikan->data as $data)
@@ -73,7 +73,7 @@
       <?php $berdasarkan_pekerjaan = $data_penduduk->data->pekerjaan; ?>
       <div class="row mt-4">
         <h5 class="card-title" style="font-weight: bold; font-size: medium;">{{ $berdasarkan_pekerjaan->desc }}</h5>
-        <table style="border: 1px solid black; width: 70%;">
+        <table style="border: 1px solid black; width: 90%;">
           <tr>
             <th>Nama</th>
             @foreach ($berdasarkan_pekerjaan->data as $data)

@@ -19,7 +19,7 @@
             <div class="card-body">
               <a href="/potensi-desa/{{ $potensi_desa->code }}" style="text-decoration: none; color: black;">
                 <h5 class="card-title">{{ $potensi_desa->nama }}</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">{{ $potensi_desa->ringkasan }}</p>
               </a>
             </div>
           </div>

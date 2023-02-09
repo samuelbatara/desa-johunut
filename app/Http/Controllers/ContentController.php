@@ -35,9 +35,12 @@ class ContentController extends Controller
   }
 
   public function index() {
-    $card_title = "Selamat Datang";
+    $card_title = "Desa Johunut";
     $images = $this->imageController->getAssets(
       resource_path($this->asset_balai_desa)
+    );
+    $data_penduduk = $this->dataPendudukController->getDataPendudukByCode(
+      'desa_johunut'
     );
 
     return view('index', [
@@ -45,6 +48,7 @@ class ContentController extends Controller
       'card_title' => $card_title,
       'image_src' => asset('assets/loading.png'),
       'images' => $images,
+      'data_penduduk' => $data_penduduk
     ]);
   }
 

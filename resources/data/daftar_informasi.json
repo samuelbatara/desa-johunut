@@ -9,10 +9,20 @@
       }
     ],
     "ringkasan": "Program Kerja Multidisplin 1 KKN UNDIP 2023",
-    "content": {
-      "tipe": "text",
-      "value": ""
-    }
+    "contents": [
+      {
+        "tipe": "text",
+        "value": "Rata-rata warga di Desa Johunut memiliki pekarangan kosong. Pekarangan kosong tersebut kurang dimanfaatkan oleh warga. Warga dapat memanfaatkan lahan tersebut untuk ditanami beberapa jenis tanaman yang dapat dikonsumsi sehari-hari. Namun, pada musim kemarau kondisi tanah akan menjadi kering dan tidak dapat ditanami tanaman. Polybag dapat dimanfaatkan untuk menanam tumbuhan baik di hujan atau di musim kemarau. Lahan kosong dapat dimanfaatkan dengan ditanami dengan tumbuhan seperti Cabe untuk dikonsumsi sehari-hari."
+      },
+      {
+        "tipe": "text",
+        "value": "Tumbuhan cabe yang ditanam pada polybag juga dapat dimanfaatkan pada hal yang lain dan tidak terbatas hanya pada konsumsi sehari-hari. Tumbuhan cabe dapat juga dimanfaatkan bijinya dan dapat diproses menjadi benih hingga dapat digunakan menjadi calon cabe selanjutnya."
+      },
+      {
+        "tipe": "text",
+        "value": "Terdapat 150 polybag yang ditanami dengan tumbuhan cabe. Masyarakat Desa Johunut dapat memanfaatkan polybag tersebut sebagai tanaman konsumsi atau untuk hal yang lain, seperti mengambil bijinya untuk menjadi benih, selanjutnya benih tersebut dapat dijual atau digunakan secara mandiri."
+      }
+    ]
   },
   {
     "code": 1,
@@ -24,24 +34,36 @@
       }
     ],
     "ringkasan": "Program Kerja Multidisplin 2 KKN UNDIP 2023",
-    "content": {
-      "tipe": "text",
-      "value": ""
-    }
+    "contents": [
+      {
+        "tipe": "text",
+        "value": "Suatu kegiatan atau perjalan yang dilakukan untuk rekreasi atau liburan dan juga terdapat aktivitas edukasi atau pendidikan di dalamnya. Ada banyak kegiatan wisata edukasi yang bisa dilakukan khususnya bagi anak-anak yang masih membutuhkan pembelajaran akan dunia luar. Wisata edukasi bertujuan untuk meningkatkan kecerdasan dan kreativitas peserta kegiatan wisata. Biasanya, tujuan wisata pendidikan adalah tempat-tempat yang memiliki nilai tambah sebagai sebuah area wisata, seperti kawasan perkebunan, kebuh binatang, tempat penangkaran hewan langka, pusat-pusat penelitian, dan lain-lain."
+      },
+      {
+        "tipe": "text",
+        "value": "Terdapat 6 ekor kelinci yang terdiri dari 3 jantan dan 3 betina. Masyarakat di Desa Johunut dapat menggunakan taman wisata sebagai tempat hiburan untuk melihat kelinci tersebut. "
+      },
+      {
+        "tipe": "text",
+        "value": "Taman wisata ini tidak terbatas untuk tempat rekreasi atau edukasi. Kotoran kelinci juga dapat digunakan dan terdapat proses bisnis di dalamnya. Kotoran kelinci dapat digunakan untuk pupuk organik. Kotoran kelinci yang telah dikemas menjadi pupuk organic dapat dijual dan menjadi masukan ke Desa Johunut."
+      }
+    ]
   },
   {
-    "code": 2,
-    "nama": "Program Kerja Eko",
+    "code": "program-kerja-fahmi",
+    "nama": "Program Kerja Fahmi",
     "images": [
       {
         "path": "",
         "main": false
       }
     ],
-    "ringkasan": "Program Kerja Monodisplin Eko",
-    "content": {
-      "tipe": "link",
-      "value": ""
-    }
+    "ringkasan": "Program Kerja Monodisplin Fahmi",
+    "contents": [
+      {
+        "tipe": "link",
+        "value": "https://www.youtube.com/embed/tgbNymZ7vqY"
+      }
+    ]
   }
 ]
