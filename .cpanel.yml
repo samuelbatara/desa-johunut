@@ -2,7 +2,10 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1576475/public_html/
-    - mkdir -p /home/u1576475/desa-johunut/
-    - cp -r ./* /home/u1576475/desa-johunut/
-    - cp -rf ./public/index-deploy.php ./public/index.php
+    - export HOME=/home/u1576475/
+    - export LARAVEL=/home/u1576475/desa-johunut
+    - mkdir -p $LARAVEL
+    - cp -r ./* $LARAVEL
+    - cp -rf $LARAVEL/public/index-deploy.php $LARAVEL/public/index.php
     - cp -r ./public/* $DEPLOYPATH
+    - rm -rf $LARAVEL/public/
