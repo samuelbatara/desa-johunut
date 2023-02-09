@@ -1,17 +1,20 @@
 [
   {
+    "code": 0,
     "nama": "Download 1",
     "ringkasan": "",
-    "url": ""
+    "path": ""
   },
   {
+    "code": 1,
     "nama": "Download 2",
     "ringkasan": "",
-    "url": ""
+    "path": ""
   },
   {
+    "code": 2,
     "nama": "Download 3",
     "ringkasan": "",
-    "url": ""
+    "path": ""
   }
 ]

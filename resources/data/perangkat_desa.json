@@ -1,0 +1,77 @@
+[
+  {
+    "nama": "Kimisyati",
+    "jabatan": "Kepala Desa",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Suhardi",
+    "jabatan": "Sekretaris Desa",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Agus Tjahjono",
+    "jabatan": "Kepala Urusan Tata Usaha dan Umum",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Puji Rusmini",
+    "jabatan": "Kepala Keuangan",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Supriyadi",
+    "jabatan": "Kepala Urusan Perencanaan",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Dwi",
+    "jabatan": "Kepala Seksi Pemerintahaan",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Sukimo",
+    "jabatan": "Kepala Seksi Kesejahteraan",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Wagito",
+    "jabatan": "Kepala Seksi Pelayanan",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Sumarno",
+    "jabatan": "Kepala Dusun Salam dan Pakel",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Sukadi",
+    "jabatan": "Kepala Dusun Sambi",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Tuladi",
+    "jabatan": "Kepala Dusun Gemulung",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Sukardi",
+    "jabatan": "Kepala Dusun Nagan",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Iwan Widodo",
+    "jabatan": "Kepala Dusun Waruharjo",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Jomino",
+    "jabatan": "Kepala Dusun Johunut",
+    "image": "/assets/loading.png"
+  },
+  {
+    "nama": "Slamet",
+    "jabatan": "Kelapa Dusun Pule dan Gebang",
+    "image": "/assets/loading.png"
+  }
+]

@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ContentController;
+use App\Http\Controllers\DownloadController;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Support\Facades\Route;
 
@@ -29,6 +30,8 @@ Route::get('/potensi-desa/{code}', [ContentController::class, 'getPotensiDesaCon
 
 // Informasi
 Route::get('/informasi', [ContentController::class, 'getInformasiContent']);
+Route::get('/informasi/{code}', [ContentController::class, 'getInformasiContentByCode']);
 
 // Downlaod
 Route::get('/download-center', [ContentController::class, 'getDownloadContent']);
+Route::get('/download/{code}', [DownloadController::class, 'getDownloadByCode']);

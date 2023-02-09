@@ -3,18 +3,88 @@
     "code": 0,
     "nama": "Batu Kapur",
     "ringkasan": "",
-    "detail": ""
+    "detail": "",
+    "images": [
+      {
+        "path": "/assets/potensi-desa/batu-kapur/1.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/potensi-desa/batu-kapur/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/batu-kapur/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/batu-kapur/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/batu-kapur/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/batu-kapur/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/batu-kapur/7.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 1,
     "nama": "Luweng",
     "ringkasan": "",
-    "detail": ""
+    "detail": "",
+    "images": [
+      {
+        "path": "/assets/potensi-desa/luweng/1.jpg",
+        "main": true
+      },
+      {
+        "path": "/assets/potensi-desa/luweng/2.jpg",
+        "main": false
+      }
+    ]
   },
   {
     "code": 2,
-    "nama": "UMKM",
+    "nama": "UMKM Keripik Tempe",
     "ringkasan": "",
-    "detail": ""
+    "detail": "",
+    "images": [
+      {
+        "path": "/assets/potensi-desa/umkm/1.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/umkm/2.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/umkm/3.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/umkm/4.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/umkm/5.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/umkm/6.jpg",
+        "main": false
+      },
+      {
+        "path": "/assets/potensi-desa/umkm/7.jpg",
+        "main": true
+      }
+    ]
   }
 ]

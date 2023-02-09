@@ -13,9 +13,9 @@
           </div>
           <div class="col-md-8">
             <div class="card-body">
-            <a href="#" style="text-decoration: none; color: black;">
+            <a href="/informasi/{{ $informasi->code }}" style="text-decoration: none; color: black;">
                 <h5 class="card-title">{{ $informasi->nama }}</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">{{ $informasi->ringkasan }}</p>
               </a>
             </div>
           </div>

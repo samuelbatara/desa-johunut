@@ -5,11 +5,15 @@
 
   <div class="row">
     @foreach($daftar_potensi_desa as $potensi_desa) 
-    <div class="col-6">
+    <div class="col-8">
       <div class="card mb-3" style="max-width: 540px;">
         <div class="row g-0">
           <div class="col-md-4">
-            <img src="{{ $image_src }}" class="img-fluid rounded-start" alt="...">
+            @foreach ($potensi_desa->images as $image) 
+            @if ($image->main) 
+            <img src="{{ $image->path }}" class="img-fluid rounded-start" alt="...">
+            @endif
+            @endforeach
           </div>
           <div class="col-md-8">
             <div class="card-body">

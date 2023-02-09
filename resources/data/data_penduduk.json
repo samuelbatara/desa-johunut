@@ -1,0 +1,1248 @@
+[
+  {
+    "code": "gebang",
+    "nama": "Gebang",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 34,
+        "jumlah_kk": 41,
+        "jumlah_kk_perempuan": 5,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 58
+            },
+            {
+              "key": "Perempuan",
+              "value": 62
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 7
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 2
+            },
+            {
+              "key": "SD",
+              "value": 62
+            },
+            {
+              "key": "SMP",
+              "value": 23
+            },
+            {
+              "key": "SMA",
+              "value": 22
+            },
+            {
+              "key": "Diploma",
+              "value": 3
+            },
+            {
+              "key": "S1",
+              "value": 1
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 91
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 6
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 4
+            },
+            {
+              "key": "ASN",
+              "value": 1
+            },
+            {
+              "key": "Nelayan",
+              "value": 0
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "pule",
+    "nama": "Pule",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 36,
+        "jumlah_kk": 51,
+        "jumlah_kk_perempuan": 4,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 67
+            },
+            {
+              "key": "Perempuan",
+              "value": 79
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 5
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 3
+            },
+            {
+              "key": "SD",
+              "value": 87
+            },
+            {
+              "key": "SMP",
+              "value": 25
+            },
+            {
+              "key": "SMA",
+              "value": 24
+            },
+            {
+              "key": "Diploma",
+              "value": 0
+            },
+            {
+              "key": "S1",
+              "value": 2
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "ASN",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "johunut",
+    "nama": "Johunut",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 52,
+        "jumlah_kk": 75,
+        "jumlah_kk_perempuan": 13,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 85
+            },
+            {
+              "key": "Perempuan",
+              "value": 92
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 27
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 1
+            },
+            {
+              "key": "SD",
+              "value": 58
+            },
+            {
+              "key": "SMP",
+              "value": 56
+            },
+            {
+              "key": "SMA",
+              "value": 27
+            },
+            {
+              "key": "Diploma",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "S1",
+              "value": 8
+            },
+            {
+              "key": "S2",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "S3",
+              "value": "Tidak ada data"
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 55
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 30
+            },
+            {
+              "key": "ASN",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "waruharjo",
+    "nama": "Waruharjo",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 59,
+        "jumlah_kk": 81,
+        "jumlah_kk_perempuan": 11,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 106
+            },
+            {
+              "key": "Perempuan",
+              "value": 121
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 24
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 4
+            },
+            {
+              "key": "SD",
+              "value": 95
+            },
+            {
+              "key": "SMP",
+              "value": 47
+            },
+            {
+              "key": "SMA",
+              "value": 51
+            },
+            {
+              "key": "Diploma",
+              "value": 3
+            },
+            {
+              "key": "S1",
+              "value": 3
+            },
+            {
+              "key": "S2",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "S3",
+              "value": "Tidak ada data"
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 118
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 25
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 29
+            },
+            {
+              "key": "ASN",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "nagan",
+    "nama": "Nagan",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 50,
+        "jumlah_kk": 68,
+        "jumlah_kk_perempuan": 15,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 83
+            },
+            {
+              "key": "Perempuan",
+              "value": 96
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 11
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 6
+            },
+            {
+              "key": "SD",
+              "value": 152
+            },
+            {
+              "key": "SMP",
+              "value": 4
+            },
+            {
+              "key": "SMA",
+              "value": 3
+            },
+            {
+              "key": "Diploma",
+              "value": 0
+            },
+            {
+              "key": "S1",
+              "value": 3
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 136
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 22
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 23
+            },
+            {
+              "key": "ASN",
+              "value": 1
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "klampok",
+    "nama": "Klampok",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 45,
+        "jumlah_kk": 53,
+        "jumlah_kk_perempuan": 5,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 75
+            },
+            {
+              "key": "Perempuan",
+              "value": 89
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 13
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 5
+            },
+            {
+              "key": "SD",
+              "value": 90
+            },
+            {
+              "key": "SMP",
+              "value": 27
+            },
+            {
+              "key": "SMA",
+              "value": 27
+            },
+            {
+              "key": "Diploma",
+              "value": 0
+            },
+            {
+              "key": "S1",
+              "value": 0
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 2
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 54
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "ASN",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "kenteng",
+    "nama": "Kenteng",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 48,
+        "jumlah_kk": 62,
+        "jumlah_kk_perempuan": 6,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 88
+            },
+            {
+              "key": "Perempuan",
+              "value": 94
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 41
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 7
+            },
+            {
+              "key": "SD",
+              "value": 67
+            },
+            {
+              "key": "SMP",
+              "value": 56
+            },
+            {
+              "key": "SMA",
+              "value": 9
+            },
+            {
+              "key": "Diploma",
+              "value": 2
+            },
+            {
+              "key": "S1",
+              "value": 0
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 89
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "ASN",
+              "value": 34
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "gemulung",
+    "nama": "Gemulung",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 17,
+        "jumlah_kk": 24,
+        "jumlah_kk_perempuan": 2,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 34
+            },
+            {
+              "key": "Perempuan",
+              "value": 40
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 7
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 1
+            },
+            {
+              "key": "SD",
+              "value": 31
+            },
+            {
+              "key": "SMP",
+              "value": 18
+            },
+            {
+              "key": "SMA",
+              "value": 17
+            },
+            {
+              "key": "Diploma",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "S1",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "S2",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "S3",
+              "value": "Tidak ada data"
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 14
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 9
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 9
+            },
+            {
+              "key": "ASN",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "mloko",
+    "nama": "Mloko",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 33,
+        "jumlah_kk": 42,
+        "jumlah_kk_perempuan": 7,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 62
+            },
+            {
+              "key": "Perempuan",
+              "value": 59
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 20
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 15
+            },
+            {
+              "key": "SD",
+              "value": 29
+            },
+            {
+              "key": "SMP",
+              "value": 19
+            },
+            {
+              "key": "SMA",
+              "value": 18
+            },
+            {
+              "key": "Diploma",
+              "value": 5
+            },
+            {
+              "key": "S1",
+              "value": 14
+            },
+            {
+              "key": "S2",
+              "value": 1
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 37
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 10
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 13
+            },
+            {
+              "key": "ASN",
+              "value": 2
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "sambi",
+    "nama": "Sambi",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 61,
+        "jumlah_kk": 93,
+        "jumlah_kk_perempuan": 22,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 105
+            },
+            {
+              "key": "Perempuan",
+              "value": 129
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 50
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 4
+            },
+            {
+              "key": "SD",
+              "value": 91
+            },
+            {
+              "key": "SMP",
+              "value": 58
+            },
+            {
+              "key": "SMA",
+              "value": 26
+            },
+            {
+              "key": "Diploma",
+              "value": 3
+            },
+            {
+              "key": "S1",
+              "value": 2
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 122
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 0
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 33
+            },
+            {
+              "key": "ASN",
+              "value": 1
+            },
+            {
+              "key": "Nelayan",
+              "value": 0
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "prengguk",
+    "nama": "Prengguk",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 13,
+        "jumlah_kk": 18,
+        "jumlah_kk_perempuan": 4,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 23
+            },
+            {
+              "key": "Perempuan",
+              "value": 22
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 14
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 3
+            },
+            {
+              "key": "SD",
+              "value": 10
+            },
+            {
+              "key": "SMP",
+              "value": 9
+            },
+            {
+              "key": "SMA",
+              "value": 7
+            },
+            {
+              "key": "Diploma",
+              "value": 1
+            },
+            {
+              "key": "S1",
+              "value": 1
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 20
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 0
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 0
+            },
+            {
+              "key": "ASN",
+              "value": 0
+            },
+            {
+              "key": "Nelayan",
+              "value": 0
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "pakel",
+    "nama": "Pakel",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 68,
+        "jumlah_kk": 100,
+        "jumlah_kk_perempuan": 20,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 130
+            },
+            {
+              "key": "Perempuan",
+              "value": 130
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 39
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 3
+            },
+            {
+              "key": "SD",
+              "value": 100
+            },
+            {
+              "key": "SMP",
+              "value": 84
+            },
+            {
+              "key": "SMA",
+              "value": 33
+            },
+            {
+              "key": "Diploma",
+              "value": 1
+            },
+            {
+              "key": "S1",
+              "value": 0
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 157
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": 22
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 54
+            },
+            {
+              "key": "ASN",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "salam",
+    "nama": "Salam",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 15,
+        "jumlah_kk": 24,
+        "jumlah_kk_perempuan": 3,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 27
+            },
+            {
+              "key": "Perempuan",
+              "value": 32
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 13
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 0
+            },
+            {
+              "key": "SD",
+              "value": 15
+            },
+            {
+              "key": "SMP",
+              "value": 16
+            },
+            {
+              "key": "SMA",
+              "value": 12
+            },
+            {
+              "key": "Diploma",
+              "value": 2
+            },
+            {
+              "key": "S1",
+              "value": 1
+            },
+            {
+              "key": "S2",
+              "value": 0
+            },
+            {
+              "key": "S3",
+              "value": 0
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 15
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": 14
+            },
+            {
+              "key": "ASN",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  },
+  {
+    "code": "desa_johunut",
+    "nama": "Desa Johunut",
+    "periode": "Januari 2023",
+    "data": {
+        "jumlah_rumah": 531,
+        "jumlah_kk": 732,
+        "jumlah_kk_perempuan": 117,
+        "jenis_kelamin": {
+          "desc": "Jumlah Penduduk Berdasarkan Jenis Kelamin",
+          "data": [
+            {
+              "key": "Laki-Laki",
+              "value": 943
+            },
+            {
+              "key": "Perempuan",
+              "value": 1045
+            }
+          ]
+        },
+        "pendidikan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pendidikan",
+          "data": [
+            {
+              "key": "Belum/Tidak Sekolah",
+              "value": 271
+            },
+            {
+              "key": "PAUD/TK",
+              "value": 54
+            },
+            {
+              "key": "SD",
+              "value": 887
+            },
+            {
+              "key": "SMP",
+              "value": 442
+            },
+            {
+              "key": "SMA",
+              "value": 276
+            },
+            {
+              "key": "Diploma",
+              "value": 20
+            },
+            {
+              "key": "S1",
+              "value": 35
+            },
+            {
+              "key": "S2",
+              "value": 1
+            },
+            {
+              "key": "S3",
+              "value": 2
+            }
+          ]
+        },
+        "pekerjaan": {
+          "desc": "Jumlah Penduduk Berdasarkan Pekerjaan",
+          "data": [
+            {
+              "key": "Petani",
+              "value": 89
+            },
+            {
+              "key": "Buruh Harian Lepas",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "Karyawan Swasta",
+              "value": "Tidak ada data"
+            },
+            {
+              "key": "ASN",
+              "value": 34
+            },
+            {
+              "key": "Nelayan",
+              "value": "Tidak ada data"
+            }
+          ]
+        }
+      }
+  }
+]

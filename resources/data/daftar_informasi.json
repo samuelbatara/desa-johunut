@@ -1,24 +1,47 @@
 [
   {
     "code": 0,
-    "nama": "Program Kerja 1",
+    "nama": "Upaya Peningkatan Kesejahteraan Masyarakat Desa Johunut Melalui Optimalisasi Budidaya Polybag",
     "images": [
       {
-        "url": "",
-        "isMain": false
+        "path": "",
+        "main": false
       }
     ],
-    "ringkasan": ""
+    "ringkasan": "Program Kerja Multidisplin 1 KKN UNDIP 2023",
+    "content": {
+      "tipe": "text",
+      "value": ""
+    }
   },
   {
     "code": 1,
-    "nama": "Program Kerja 2",
+    "nama": "Peningkatan Pariwisata dan Wawasan Masyarakat Desa Johunut melalui Taman Edukasi Barbasis Hewan",
     "images": [
       {
-        "url": "",
-        "isMain": false
+        "path": "",
+        "main": false
       }
     ],
-    "ringkasan": ""
+    "ringkasan": "Program Kerja Multidisplin 2 KKN UNDIP 2023",
+    "content": {
+      "tipe": "text",
+      "value": ""
+    }
+  },
+  {
+    "code": 2,
+    "nama": "Program Kerja Eko",
+    "images": [
+      {
+        "path": "",
+        "main": false
+      }
+    ],
+    "ringkasan": "Program Kerja Monodisplin Eko",
+    "content": {
+      "tipe": "link",
+      "value": ""
+    }
   }
 ]
