@@ -6,10 +6,10 @@
     "path": "excel/format-pph-umkm.xlsx"
   },
   {
-    "code": 1,
-    "nama": "Download 2",
-    "ringkasan": "",
-    "path": ""
+    "code": "buku-panduan-penggunaan-simulasi-ujian-berbasis-komputer",
+    "nama": "Buku Panduan Penggunaan Web Simulasi Ujian Berbasis Komputer",
+    "ringkasan": "Buku panduan untuk menggunakan web simulasi untuk Guru dan Siswa/Siswi",
+    "path": "word/buku-panduan.docx"
   },
   {
     "code": 2,
