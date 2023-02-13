@@ -6,6 +6,6 @@ deployment:
     - export LARAVEL=/home/u1576475/desa-johunut
     - mkdir -p $LARAVEL
     - cp -r ./* $LARAVEL
-    - cp -rf $LARAVEL/public/index-deploy.php $LARAVEL/public/index.php
+    - cp -f $LARAVEL/public/index-deploy.php $LARAVEL/public/index.php
     - cp -r ./public/* $DEPLOYPATH
     - rm -rf $LARAVEL/public/
