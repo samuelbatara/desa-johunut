@@ -1,0 +1,18 @@
+[
+  {
+    "nama": "Peta Batas Desa",
+    "path": "/assets/peta-desa/batas-desa.png"
+  },
+  {
+    "nama": "Peta Potensi Desa dan Infrastuktur",
+    "path": "/assets/peta-desa/potensi-desa-dan-infra.jpg"
+  },
+  {
+    "nama": "Peta Rawan Banjir",
+    "path": "/assets/peta-desa/rawan-banjir.png"
+  },
+  {
+    "nama": "Peta Tutupan Lahan",
+    "path": "/assets/peta-desa/tutup-lahan.jpg"
+  }
+]

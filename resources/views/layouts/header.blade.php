@@ -18,6 +18,7 @@
             <li><a class="dropdown-item" href="/visi-misi">Visi dan Misi</a></li>
             <li><a class="dropdown-item" href="/perangkat-desa">Perangkat Desa</a></li>
             <li><a class="dropdown-item" href="/profile-dusun">Profile Dusun</a></li>
+            <li><a class="dropdown-item" href="/peta-desa">Peta Desa</a></li>
           </ul>
         </li>
 

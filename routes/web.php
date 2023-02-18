@@ -23,6 +23,7 @@ Route::get('/visi-misi', [ContentController::class, 'getVisionAndMisionContent']
 Route::get('/perangkat-desa', [ContentController::class, 'getPerangkatDesaContent']);
 Route::get('/profile-dusun', [ContentController::class, 'getProfileDusunContent']);
 Route::get('/profile-dusun/{code}', [ContentController::class, 'getProfileDusunContentByCode']);
+Route::get('/peta-desa', [ContentController::class, 'getPetaDesaContent']);
 
 // Potensi Desa
 Route::get('/potensi-desa', [ContentController::class, 'getPotensiDesaContent']);

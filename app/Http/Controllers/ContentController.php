@@ -103,6 +103,19 @@ class ContentController extends Controller
     ]);
   }
 
+  public function getPetaDesaContent() {
+    $card_title = "Peta Desa";
+    $peta_desa = $this->jsonController->getContent(
+      resource_path('data/peta_desa.json')
+    );
+
+    return view('profile_desa/peta_desa', [
+      'page_title' => "Peta Desa - " . $this->default_page_title,
+      'card_title' => $card_title,
+      'peta_desa' => $peta_desa
+    ]);
+  }
+
   public function getPotensiDesaContent() {
     $card_title = "Potensi Desa";
     $daftar_potensi_desa = $this->jsonController->getContent(
